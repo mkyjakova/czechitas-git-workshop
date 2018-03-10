@@ -9,4 +9,4 @@ B1 - hromada sesitu
 B2 - pracovni plocha
 B3 - pracovni plocha
 B4 - pracovni plocha
-B5
+B5 - kafe
