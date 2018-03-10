@@ -6,7 +6,7 @@ A3
 A4
 A5 - hromada sesitu
 B1 - hromada sesitu
-B2 - pracovni plocha
-B3 - pracovni plocha
-B4 - pracovni plocha
+B2 - notebook
+B3 - notebook
+B4 - notebook
 B5
