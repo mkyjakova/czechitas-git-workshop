@@ -1,12 +1,12 @@
 Nejefektivnejsi psaci stul, podle meho hlubokeho vedeckeho badani, jsem dospel k zaveru:
 
 A1 - hromada sesitu
-A2
+A2 - nabijecka na notebook
 A3
 A4
 A5 - hromada sesitu
 B1 - nabijecka
-B2 - pracovni plocha
-B3 - pracovni plocha
-B4 - pracovni plocha
+B2 - notebook
+B3 - notebook
+B4 - notebook
 B5 - kafe
